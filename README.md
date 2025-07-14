@@ -1,4 +1,3 @@
-una SPA para gestión de eventos con roles de usuario.
 
 
 # 📅SPA de Gestión de Eventos – JavaScript (Módulo 3)
